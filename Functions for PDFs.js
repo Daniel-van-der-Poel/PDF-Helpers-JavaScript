@@ -88,7 +88,6 @@ function massSetFont(fontname = font.Helv, size = 16, colorname = ["RGB", 0, 0, 
             this.getField(target).editable = false; (for combo-boxes)
             this.getField(target).fillColor = "T";
             this.getField(target).userName = ""; 
-            
             */
         }
     }
