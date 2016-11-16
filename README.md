@@ -2,11 +2,11 @@
 
 Several JavaScript functions for interactive PDFs. Includes functions that make it easy to:
 
--Read to/write to fields
--Change the properties of (all) fields
--Create custom tooltips
--Create custom popup menus
--Manipulate layers
+* Read to/write to fields
+* Change the properties of (all) fields
+* Create custom tooltips
+* Create custom popup menus
+* Manipulate layers
 
 ## Installation
 
