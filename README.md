@@ -14,4 +14,4 @@ Add this file to your PDF's JavaScript documents.
 
 ## Usage
 
-The functions contain brief discriptions that should make their use straightforward. The functions that manipulate layers and all fields can take a while to process.
+Most of these function only work within Adobe Acrobat (not the mobile version). The functions contain brief discriptions that should make their use straightforward. The application of functions that manipulate layers and all fields.
